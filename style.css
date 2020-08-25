@@ -1,0 +1,39 @@
+body{
+    background: whitesmoke;    
+}
+header{
+    text-align: center;
+}
+section{
+    border-color: honeydew;
+    border-width: 1px;
+    padding: 10px;
+}
+
+hr{
+    height: 6px; 
+    background: black; 
+    margin-bottom: 10px;
+}
+
+h3{
+    text-decoration: underline;
+    margin-bottom: 0px;
+}
+h4{
+    margin-block-end: 0px;
+}
+p{
+    font-size: 24;
+    padding: 20px;
+}
+ul{
+    margin-block-start: 0px;
+}
+
+footer{
+    text-decoration: wavy;
+    font-size: medium;
+    text-decoration-color: darkgrey;
+    text-align: right;
+}
